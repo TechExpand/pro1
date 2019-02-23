@@ -1,23 +1,20 @@
 {
-    "glossary": {
-	    
-        "title": "example glossary",
-		"GlossDiv": {
-            "title": "S",
-			"GlossList": {
-                "GlossEntry": {
-                    "ID": "SGML",
-					"SortAs": "SGML",
-					"GlossTerm": "Standard Generalized Markup Language",
-					"Acronym": "SGML",
-					"Abbrev": "ISO 8879:1986",
-					"GlossDef": {
-                        "para": "A meta-markup language, used to create markup languages such as DocBook.",
-						"GlossSeeAlso": ["GML", "XML"]
-                    },
-					"GlossSee": "mark is not the only child  that climb the true umreeeeeeeeeeeeep"
-                }
-            }
-        }
-    }
+   "HeaderText": {
+      "HeaderText": "Dan Testing"
+   },
+   "Image": {
+      "img": {
+         "@width": "100",
+         "@height": "100",
+         "@alt": "FPO lady",
+         "@src": "http://www.html.net/logo.png"
+      }
+   },
+   "BodyText": {
+      "p": {
+         "#text": "This is a test of the body text",
+         "br": []
+      }
+   },
+   "ShowLinkArrow": "false"
 }
