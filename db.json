@@ -1,20 +1,5 @@
 {
    "HeaderText": {
       "HeaderText": "Dan Testing"
-   },
-   "Image": {
-      "img": {
-         "@width": "100",
-         "@height": "100",
-         "@alt": "FPO lady",
-         "@src": "http://www.html.net/logo.png"
       }
-   },
-   "BodyText": {
-      "p": {
-         "#text": "This is a test of the body text",
-         "br": []
-      }
-   },
-   "ShowLinkArrow": "false"
 }
